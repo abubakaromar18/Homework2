@@ -1,0 +1,34 @@
+Script started on Mon Nov  1 12:38:28 2021
+
+
+[1m[7m%[27m[1m[0m                                                                                                                    
+ 
+]2;abubakaromar@Abubakars-MacBook-Pro:~/Documents/Fall 2021/CSCI 311 Projects/Homework2]1;..cts/Homework2
+[0m[27m[24m[J[32m~/Documents/Fall 2021/CSCI 311 Projects/Homework2[00m  [00m[1m$[0m [K[?1h=[?2004hhhash  h  ../hash √ [7m398831[27m[27m3[27m9[27m8[27m8[27m3[27m1[1C[1C[1C[?1l>[?2004l
+./hash 398831
+
+./hashvalue entered: 398831
+586
+The value is found
+ 
+slot[1480]: 41856
+ 398831
+
+]2;abubakaromar@Abubakars-MacBook-Pro:~/Documents/Fall 2021/CSCI 311 Projects/Homework2]1;..cts/Homework2
+[0m[27m[24m[J[32m~/Documents/Fall 2021/CSCI 311 Projects/Homework2[00m  [00m[1m$[0m [K[?1h=[?2004h../hash [7m523357[27m[27m5[27m2[27m3[27m3[27m5[27m7[?1l>[?2004l
+
+]2;
+./hash 523357
+
+value entered: 523357
+
+The value is not found
+ 
+slot[ 496]: 81451
+ 523357
+
+]2;abubakaromar@Abubakars-MacBook-Pro:~/Documents/Fall 2021/CSCI 311 Projects/Homework2]1;..cts/Homework2
+[0m[27m[24m[J[32m~/Documents/Fall 2021/CSCI 311 Projects/Homework2[00m  [00m[1m$[0m [K[?1h=[?2004heexit[?1l>[?2004l
+
+]2;exit]1;exit
+Script done on Mon Nov  1 12:39:26 2021
